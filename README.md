@@ -1,4 +1,4 @@
-# web-dev-workshops-S26
+# web-dev-workshop
 
 Build real websites from scratch — no experience needed. Over six one-hour sessions you'll learn HTML, CSS, and JavaScript by making projects that are actually about you.
 
