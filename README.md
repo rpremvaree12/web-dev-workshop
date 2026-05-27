@@ -13,7 +13,7 @@ Build real websites from scratch — no experience needed. Over six one-hour ses
 5. Here are the workshop [slides](https://docs.google.com/presentation/d/1PuRcmGhxZS-eKfx0XqDV3p0uWYPfVthA/edit?usp=sharing&ouid=103875033220228607197&rtpof=true&sd=true)
 6. Test test test
 
-[internet quiz](/Users/richardpremvaree/Desktop/Code/web-dev-workshop/internet-quiz/five-levels.html)
+[internet quiz](./internet-quiz/five-levels.html)
 
 ---
 
