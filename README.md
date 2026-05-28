@@ -11,9 +11,8 @@ Build real websites from scratch — no experience needed. Over six one-hour ses
 3. Open your fork in GitHub Codespaces: click the green **Code** button → **Codespaces** → **Create codespace on main**
 4. That's it — your editor is ready in the browser, nothing to install!
 5. Here are the workshop [slides](https://docs.google.com/presentation/d/1PuRcmGhxZS-eKfx0XqDV3p0uWYPfVthA/edit?usp=sharing&ouid=103875033220228607197&rtpof=true&sd=true)
-6. Test test test
 
-[internet quiz](./internet-quiz/five-levels.html)
+[video quiz](https://rpremvaree12.github.io/web-dev-workshop/internet-quiz/)
 
 ---
 
